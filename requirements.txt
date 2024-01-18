@@ -1,0 +1,9 @@
+mysql-connector-python
+pandas 
+numpy
+Flask
+scikit-learn
+seaborn
+xgboost
+
+-e.
