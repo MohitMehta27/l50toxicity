@@ -3,7 +3,7 @@ from mysql.connector import Error
 import pandas as pd
 from src.logger import logging
 from src.exception import CustomException
-from IPython.display import display
+#from IPython.display import display
 
 class MySQLDataLoader:
     def __init__(self, host, user, password, database):
